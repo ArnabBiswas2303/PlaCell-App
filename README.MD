@@ -54,7 +54,7 @@ Newsfeed keep students updated about current intership or job offers.<br>
   <tbody>
     <tr>
       <th>Ongoing Detail</th>
-      <th>NewsFeed PopuP</th>
+      <th>NewsFeed PopUp</th>
       <th>Admin Delete PopUp</th>
     </tr>
     <tr>
