@@ -1,7 +1,7 @@
  # PlaCell-App :iphone:
 PlaCell is an app where students can share their interview experience and also get updates about ongoing placements.<br>
 Students can create or sign in to existing account. Add thier stories or see other's.<br>
-Previous tab shows previous company requirements and package offered.<br>
+Ongoing tab shows company requirements and package offered.<br>
 Newsfeed keep students updated about current intership or job offers.<br>
 <br>
 ### ScreenShots
