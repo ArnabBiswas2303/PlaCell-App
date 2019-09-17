@@ -13,7 +13,7 @@ Newsfeed keep students updated about current intership or job offers.<br>
       <th>NavDrawer</th>
     </tr>
     <tr>
-      <td><img src="https://i.imgur.com/f8d701N.png" title="source: imgur.com" width=200px/>/td>
+      <td><img src="https://i.imgur.com/f8d701N.png" title="source: imgur.com" width=200px/></td>
       <td><img src="https://i.imgur.com/YxlNTz3.png" title="source: imgur.com" width=200px/></td>
       <td><img src="https://i.imgur.com/bKWq5Xx.png" title="source: imgur.com" width=200px/></td>
     </tr>
@@ -28,7 +28,7 @@ Newsfeed keep students updated about current intership or job offers.<br>
       <th>Story PopUp</th>
     </tr>
     <tr>
-      <td><img src="https://i.imgur.com/zGsmIJb.png" title="source: imgur.com" width=200px/>/td>
+      <td><img src="https://i.imgur.com/zGsmIJb.png" title="source: imgur.com" width=200px/></td>
       <td><img src="https://i.imgur.com/hDbwLfs.png" title="source: imgur.com" width=200px/></td>
       <td><img src="https://i.imgur.com/yFALJLz.png" title="source: imgur.com" width=200px/></td>
     </tr>
@@ -43,7 +43,7 @@ Newsfeed keep students updated about current intership or job offers.<br>
       <th>NewsFeed</th>
     </tr>
     <tr>
-      <td><img src="https://i.imgur.com/Nb6n5El.png" title="source: imgur.com" width=200px/>/td>
+      <td><img src="https://i.imgur.com/Nb6n5El.png" title="source: imgur.com" width=200px/></td>
       <td><img src="https://i.imgur.com/QdXsuJy.png" title="source: imgur.com" width=200px/></td>
       <td><img src="https://i.imgur.com/a04oZ3a.png" title="source: imgur.com" width=200px/></td>
     </tr>
@@ -58,7 +58,7 @@ Newsfeed keep students updated about current intership or job offers.<br>
       <th>Admin Delete PopUp</th>
     </tr>
     <tr>
-      <td><img src="https://i.imgur.com/muMoWsB.png" title="source: imgur.com" width=200px/>/td>
+      <td><img src="https://i.imgur.com/muMoWsB.png" title="source: imgur.com" width=200px/></td>
       <td><img src="https://i.imgur.com/xvusAvp.png" title="source: imgur.com" width=200px/></td>
       <td><img src="https://i.imgur.com/zE0bAZm.png" title="source: imgur.com" width=200px/></td>
     </tr>
